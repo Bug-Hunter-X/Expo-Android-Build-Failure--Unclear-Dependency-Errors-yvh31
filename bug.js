@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android APK.  The build process fails with an error message related to missing or incorrect dependencies, often indicating problems with native modules or third-party libraries.  The exact error message can vary, but it often points towards issues in the `android/app/build.gradle` file or its dependencies.
